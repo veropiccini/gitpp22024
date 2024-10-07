@@ -19,4 +19,5 @@ git status
 git add
 git add . -> crea el repositorio de todos los archivos a la vez (y cambia el estado del archivo de U a A)
 git commit -m "textotextotexto" -> hace el snapshot (la captura del momento) (-m significa mensaje)
-
+git log -> muestra detalle de los commit realizados
+git 
