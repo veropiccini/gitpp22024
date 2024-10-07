@@ -1,0 +1,22 @@
+MIS PRIMEROS PASOS CON GIT
+
+1- Instalar git desde sitio oficial
+
+
+CONCEPTOS
+git init -> Comienza el REPOSITORIO
+git add -> subir los archivos al repositorio, listos para comenzar a ser SEGUIDOS,SEGUIMIENTO
+branch -> es una rama
+git commit -> guarda el snapshot
+
+
+
+COMANDOS git  a ejecutar desde línea de COMANDOS de la TERMINAL de Visual Studio Code
+git --version
+git init -> SE USA SOLO UNA SOLA VEZ AL PRINCIPIO,CREA EL REPOSITORIO QUE ES LA CARPETA OCULTA GIT
+cls ->limpia la pantalla
+git status 
+git add
+git add . -> crea el repositorio de todos los archivos a la vez (y cambia el estado del archivo de U a A)
+git commit -m "textotextotexto" -> hace el snapshot (la captura del momento) (-m significa mensaje)
+
